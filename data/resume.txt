@@ -1,0 +1,53 @@
+Anatoly Samultsov
+Junior Python Developer
+Email: samultsovanatoly@gmail.com
+Phone: +44 7341179996
+
+https://github.com/asamults
+
+Experienced Software Engineer and Python Developer with a solid background in automation, 
+data management, and technical system integration. I bring a unique mix of analytical thinking,
+ precision, and problem-solving ability. Proficient in developing automation scripts, 
+ managing databases, and analysing complex datasets to improve efficiency and reliability. 
+ Quick learner, adaptable to new technologies, and motivated to contribute to innovative 
+ data-driven solutions.
+
+Key Skills
+    • Programming: Python (Pandas, NumPy, SQL, CSV, APIs, automation scripting)
+    • Data & Systems: Data analysis, database design, data integration, reporting automation
+    • Engineering Tools: AutoCAD, PowerMill, Mastercam (integration and automation experience)
+    • Automation: Process optimisation, workflow scripting, CAD/CAM system integration
+    • Soft Skills: Attention to detail, cross-cultural competence, teamwork, problem-solving
+    • Languages: English (fluent), Russian (native), German (intermediate).
+
+Professional Experience
+Volunteer (Part-Time) | Burnt Oak Community Food Bank | London, UK | 11/2023 – Present
+    • Support community food distribution operations and logistics.
+    • Maintain inventory records and assist in process coordination.
+Senior Surveyor | UNICAR Group SAS | France | 12/2020 – 02/2022
+    • Conducted survey operations in ports and cargo/railway terminals.
+    • Monitored loading, inspection, and storage processes to ensure compliance.
+    • Produced detailed technical reports and process documentation.
+Senior Surveyor | UNICAR RUS LLC | Germany / Russia | 2010 – 2020
+    • Managed maritime and logistics survey operations across Europe and Russia.
+    • Coordinated technical teams, cargo assessments, and transport documentation.
+    • Developed process optimisation initiatives based on collected data.
+Manager, Maritime Logistics Operations | (Private Organisation) | Russia | 2010 – 2020
+    • Oversaw container handling, transport scheduling, and marine infrastructure operations.
+    • Improved workflow efficiency through automation and data analysis.
+    • Prepared technical and statistical reports for management and clients.
+
+Education & Training
+Naval Academy, Admiral N.G. Kuznetsov (Russia) | 1985
+    • BSc / MSc equivalent in Combat Information & Control Systems, Electronic Engineering, Computer Science
+Bioinformatics Institute (Russia)
+    • Professional Certificate in Python Programming
+Additional Information
+    • Strong experience working independently and as part of multicultural teams
+    • Excellent time management and organisational skills
+    • Interested in opportunities involving Python development, data analysis, and process automation
+    
+References
+Available upon request
+
+
