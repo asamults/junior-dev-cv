@@ -1,4 +1,23 @@
-# AI Job Application Bot (Python + Telegram)
+# Python Data Processing
+
+## Purpose
+Small Python projects for processing structured data and generating insights.
+
+## Features
+- Parsing CSV files
+- Filtering and summarizing data
+- Simple automation scripts
+
+## Technologies
+- Python
+- Pandas, CSV
+- Linux
+
+## Status
+Junior-level project
+
+
+# Job Application Bot (Python + Telegram)
 
 A Telegram bot that helps junior developers find relevant job openings
 and generate tailored cover letters using an LLM.
