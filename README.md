@@ -6,7 +6,7 @@ and a job application bot designed to showcase skills in **Python, Linux, and da
 It serves as a portfolio for **Junior Python / Automation / Data Engineer roles (UK / Remote)**.
 
 ## CV
-- [PDF CV: Anatoly Samultsov – Junior Python/Linux Developer](./CV%20Samultsov%20Junior%20Software%20Engineer.pdf)
+- [PDF CV – Anatoly Samultsov, Junior Python Developer](./CV_Samultsov_Junior_Python_Developer.pdf)
 - Highlights experience in Python automation, Linux CLI, data processing, and engineering background.
 
 ## Projects
